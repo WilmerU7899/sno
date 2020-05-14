@@ -1,9 +1,9 @@
 # Site settings
-title: Hello World
-subtitle: by HTML5 UP
+title: SNO
+subtitle: by Wilmer Uguna & Alana Liu
 email: youremailaddress@gmail.com
 description: A FREE AND FULLY RESPONSIVE SITE TEMPLATE
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/sno" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road

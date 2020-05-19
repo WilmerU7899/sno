@@ -1,16 +1,16 @@
 # Site settings
 title: SNO
 subtitle: by Wilmer Uguna & Alana Liu
-email: youremailaddress@gmail.com
-description: A FREE AND FULLY RESPONSIVE SITE TEMPLATE
-baseurl: "/sno" # the subpath of your site, e.g. /blog
+email: 
+description: 
+# baseurl: "/sno" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
+street_address: 
+city: 
+state: 
+zip_code: 
+country: 
 phone: (716) 555-5555
 
 # Social settings
@@ -18,12 +18,12 @@ phone: (716) 555-5555
 facebook_url:
 github_url:
 gitlab_url:
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+googleplus_url: 
+instagram_url: 
+linkedin_url: 
 pinterest_url:
-slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+slack_url: 
+twitter_url: 
 
 # Build settings
 markdown: kramdown

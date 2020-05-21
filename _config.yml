@@ -3,7 +3,7 @@ title: SNO
 subtitle: by Wilmer Uguna & Alana Liu
 email: alanananl7377@hstat.org wilmeru7899@hstat.org
 description: Correlation of Sleep and Obesity 
-# baseurl: "/sno" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author: Wilmer Uguna & Alana Liu
 street_address: 350 67 ST

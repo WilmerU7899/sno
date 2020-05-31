@@ -1,27 +1,30 @@
 ---
 layout: page
-title: Generic
+title: Cause and Effects
 image: assets/images/pic11.jpg
 ---
 
-<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.</p>
-<p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.</p>
+<hr class="major" />
+
+<h2>Effects</h2>
+<h3>Intentional Sleep Deprivation</h3>
+<p>Some people may consider sleep as a mundane task and it as being a waste of time. They would purposely deprive themselves of sleep in order to accomplish other goals like education or entertainment. This is mostly seen in teenagers or adults.</p>
+<p>However, sometimes this can be intentional and people might not get enough sleep due to demanding jobs or family obligations. </p>
+<p>Someone with a  constant poor sleep pattern is more likely to accumulate sleep debt. By going to bed late, frequent nighttime arousals or waking up early can lead to sleep deprivation. </p>
+<p>On the other hand, others might be struggling to sleep because they have a disorder like depression, obstructive sleep apnea, hormone imbalances, and other chronic illnesses. </p>
 
 <hr class="major" />
 
-<h2>Interdum sed dapibus</h2>
-<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.</p>
+<h2>Causes</h2>
+<h3>Normal thinking abilities </h3>
+<p>Children and adolescents are the most susceptible to the negative effects of sleep deprivation. It is known that sleep deprivation weakens the prefrontal cortex, which is responsible for handling reason and the amygdala which controls emotions. WIthout sleep, the brain uses an abnormal process for emotion. Sleep-deprived people tend to feel more worthless, powerless, and overall have a lower self esteem. They have a worse job performance and a reduced quality of life. They lack motivation and have decreased willingness to solve problems. This is because sleep is necessary for learning. Without the recommended hours, people have difficulty concentrating.</p>
 
 <hr class="major" />
 
-<h2>Magna etiam veroeros</h2>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.</p>
-<p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.</p>
+<h2>Accidents</h2>
+<p>During sleep deprivation, the body attempts to balance the need for sleep by doing short sleep attacks. This is an uncontrollable brain response that causes a person to be unable to process its surrounding and sensory information for a short amount of time. During this brief time period, the person’s eyes often remain open, but they are essentially “zoned out”. Despite the person’s attempt to stay awake, it won’t work because of this build in mechanism. It would be exceedingly difficult to continue to be awake past 48 hours straight.</p>
 
-<hr class="major" />
-
-<h2>Lorem aliquam bibendum</h2>
-<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.</p>
+<h2>Illness</h2>
+<p>Sleep deprivation can lead to both long and short term problems. It prevents the body from strengthening its immune system by slowing down the production of cytokines to fight infections. In other words, this means that it can take longer for a person to recover from an illness.  This can lead to an increased risk for chronic illness and advanced respiratory diseases. NCBI</p>
+<p>When sleep is significantly cut short, the body is more likely to gain weight, resulting in an increased risk of hypertension, diabetes,obesity, heart attack, and stroke in the sleep-deprived individual. Studies show that each hour reduction per day is associated with an increase of 0.35 kilograms or 0.8 pounds in body weight. </p>
+<p>In addition to illness, sleep can also help heart vessels to heal and rebuild as well as affecting the maintenance of sugar levels. Which in turn can affect the person’s blood pressure and inflammation control. Not sleeping enough can also increase the risk of cardiovascular disease. Not to mention, it can affect hormone production, such as growth hormones and testosterone in men.  Instead, it forms an overabundance of stress chemicals called norepinephrine and cortisol. </p>

@@ -13,7 +13,7 @@ image: assets/images/pic11.jpg
         * Nuts, seeds, beans, and other healthful sources of protein (fish and poultry)
         * Plant oils (olive and other vegetable oils)
         * Drink water or other beverages that are naturally calorie-free.
-* Limit:		         
+    * Limit:		         
         * Sugar-sweetened beverages (soda, fruit drinks, sports drinks)
         * Fruit juice (no more than a small amount per day)
         * Refined grains(white bread, white rice, white pasta) and sweets
@@ -28,37 +28,37 @@ Eat at home. Restaurants tend to have larger portions while having less nutritio
 
 3. Stay active
 * Physical Activity for Adults 
-    * For good health: 2.5 hours a week of moderate activity (brisk walking, slow bike riding) or 1.25 hours a week of vigorous activity (running, fast bike riding)
-    * For weight control: 1 hour a day of moderate to vigorous activity. This activity can be pieced together from short bursts of 10 minutes or more.
+        * For good health: 2.5 hours a week of moderate activity (brisk walking, slow bike riding) or 1.25 hours a week of vigorous activity (running, fast bike riding)
+        * For weight control: 1 hour a day of moderate to vigorous activity. This activity can be pieced together from short bursts of 10 minutes or more.
 * Physical Activity for Children
-    * At least 1 hour a day of moderate to vigorous physical activity each day, which can be pieced together from short bursts of 10 minutes or more.
-    * Muscle-strengthening and bone-strengthening activities at least three days a week
+        * At least 1 hour a day of moderate to vigorous physical activity each day, which can be pieced together from short bursts of 10 minutes or more.
+        * Muscle-strengthening and bone-strengthening activities at least three days a week
 4. Limit Screen time
 * All adults:
-    * Keep television or screen time to no more than two hours per day.
+        * Keep television or screen time to no more than two hours per day.
 * Parents:
-    * Limit children screen time to two hours per day. Children under 2 years old should watch none. Make bedrooms television free. Turn off tv during meals.
+        * Limit children screen time to two hours per day. Children under 2 years old should watch none. Make bedrooms television free. Turn off tv during meals.
 * School/ Caregivers: 
-    * Put in policies to limit screen time
+        * Put in policies to limit screen time
 * Healthcare Providers
-    * Ask parents about children screen time and counsel parents to limit them. Become an advocate for stricter restrictions on tv junk food advertisements.
+        * Ask parents about children screen time and counsel parents to limit them. Become an advocate for stricter restrictions on tv junk food advertisements.
 5. Sleep
 * Adults:
-    *7 to 8 hours a night
+        * 7 to 8 hours a night
 * Children:
-    * 1-3 years old: 12 to 14 hours a night
-    * 3-5 years old: 11 to 13 hours a night
-    * 5-12 years old: 10 to 11 hours a night
-    * Adolescents: 8.5 to 9.25 hours a night
+        * 1-3 years old: 12 to 14 hours a night
+        * 3-5 years old: 11 to 13 hours a night
+        * 5-12 years old: 10 to 11 hours a night
+        * Adolescents: 8.5 to 9.25 hours a night
 6. Good Start: 
 * During pregnancy
-    * Try to start pregnancy at a healthy weight.
-    * Don’t smoke during pregnancy.
-    * Aim for a reasonable weight gain during pregnancy.
-    * Breastfeed (preferably without other liquids for 4 to 6 months and some -Breastfeeding for at least 12 months).
-    * Ensure infants get adequate sleep during the first few years of life.
-    * Help children gain weight at a healthy rate (discuss at doctor’s visits).
-7.Relax
+        * Try to start pregnancy at a healthy weight.
+        * Don’t smoke during pregnancy.
+        * Aim for a reasonable weight gain during pregnancy.
+        * Breastfeed (preferably without other liquids for 4 to 6 months and some -Breastfeeding for at least 12 months).
+        * Ensure infants get adequate sleep during the first few years of life.
+        * Help children gain weight at a healthy rate (discuss at doctor’s visits).
+7. Relax:
 * Finding the best way for you to cope with stress is one of the best ways to maintain health. By doing physical activity regularly along with breathing exercises can be beneficial. 
 
 <hr class="major" />
@@ -82,5 +82,5 @@ Eat at home. Restaurants tend to have larger portions while having less nutritio
 <hr class="major" />
 
 <h2>Environment</h2>
-<p>**School:**Children spend the majority of their time in school and in their classrooms. Since this is an area they are often in, it should have some healthy choices and opportunity to stay active. School can include healthier lunch options and remove the marketing for unhealthy food. With this and safe walking/ biking routes to school, the chances of kids becoming obese would be significally lower. </p>
-<p>**Worksites:** Just like kids, adults also spend the majority of their time in a specific place, that is work. Since they are often in this area, they can be influenced by the people and foods that are around them. Having obesity prevention programs and providing the knowledge to stay healthy, it can help improve productivity, mobility and decrease the amount of sick days taken. </p>
+<p>(Schools)Children spend the majority of their time in school and in their classrooms. Since this is an area they are often in, it should have some healthy choices and opportunity to stay active. School can include healthier lunch options and remove the marketing for unhealthy food. With this and safe walking/ biking routes to school, the chances of kids becoming obese would be significally lower. </p>
+<p>(Worksites) Just like kids, adults also spend the majority of their time in a specific place, that is work. Since they are often in this area, they can be influenced by the people and foods that are around them. Having obesity prevention programs and providing the knowledge to stay healthy, it can help improve productivity, mobility and decrease the amount of sick days taken. </p>

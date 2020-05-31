@@ -38,7 +38,7 @@ image: assets/images/pic11.jpg
 * Guided imagery
 * Audio recording
 * Stimulation control: Involved controlling pre-bedtime activities and surrounding ro control sleeping patterns.
-    * It can be done by only spending time in their bed when they feel sleepy. This would force the brain to associate being in bed with the feeling of being ready to sleep
+    * It can be done by only spending time in their bed when they feel sleepy. This would force the brain to associate being in bed with the feeling of being ready to sleep.
 * Cognitive behavioral therapy (CBT): Designed to help people understand and change the thought patterns behind certain behaviors. 
     * It would challenge unhealthy thoughts and replace them with positive ones. Medical News Today
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Generic
+title: Diagnosis
 image: assets/images/pic11.jpg
 ---
 
@@ -29,11 +29,11 @@ image: assets/images/pic11.jpg
 
 <h2>Sleep log</h2>
 * Write down each day:
-        *The number of hours you slept
-        *The number of times per night you woke up
-        *How rested you feel after waking up
-        *Any feeling of sleepiness you experience during the day
-        * If you have a partner, it may be worth asking them to note any snoring, gasping, or limb-jerking
+    * The number of hours you slept
+    * The number of times per night you woke up
+    * How rested you feel after waking up        
+    * Any feeling of sleepiness you experience during the day
+    * If you have a partner, it may be worth asking them to note any snoring, gasping, or limb-jerking
 
 <hr class="major" />
 

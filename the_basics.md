@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Info
+title: The Basics
 image: assets/images/pic11.jpg
 ---
 

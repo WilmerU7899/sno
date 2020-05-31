@@ -8,3 +8,30 @@ image: assets/images/pic11.jpg
 
 <hr class="major" />
 
+<h2>Obesity and Diabetes</h2>
+<p>Type 2 diabetes is a condition that is most strongly influenced by body weight.  Fat cells, secret hormones and other substances that are fire inflammation are an essential part of the immune system and the healing process. At the same time inflammation changes the way the body metabolizes fats and carbohydrates by causing the body to be less responsive to insulin. The result of this is higher blood sugar levels and eventually diabetes along with its complications. [PUBMED]("https://web.archive.org/web/20120126084713/http://www.ncbi.nlm.nih.gov/pubmed/19399028?dopt=Citation") </p>
+
+<hr class="major" />
+
+<h2>Obesity and Coronary Artery Diseases</h2>
+<p>Study participants who were overweight had a 32% higher risk of developing CAD compare to normal weight patients and those were obese with a 81% risk.[NIH]("https://web.archive.org/web/20120126084252/http://www.ncbi.nlm.nih.gov/pubmed/17846390?dopt=Citation") </p>
+
+<hr class="major" />
+
+<h2>Obesity and Reproduction</h2>
+<p>Infertility was lowest in women with BMIs between 20 to 24, and increased with lower and higher BMIs. A BMI between 20 to 24 is not consider overweight or obese. [NIH]("https://web.archive.org/web/20130907034138/http:/www.ncbi.nlm.nih.gov/pubmed/11880759?dopt=Citation") </p>
+
+<hr class="major" />
+
+<h2>Obesity and Lung Function</h2>
+<p>Excess weight damages respiratory functions along the metabolic and mechanical artery. The surplus accumulation of abdominal fat can limit the diaphragm which could lead to lung expansion. The fat can reduce the flexibility of the chest wall, reducing the strength of the respiratory muscle and narrowing airways in the lungs. [NIH]("https://web.archive.org/web/20160509043057/http://www.ncbi.nlm.nih.gov/pubmed/18587034?dopt=Citation") </p>
+
+<hr class="major" />
+
+<h2>Obesity and Respiratory Diseases</h2>
+<p>Two common respiratory diseases are asthma and obstructive sleep apnea. Obesity is one of the major causes of OSA, which approximately affects one in five adults. Between 50% and 75% of people with OSA are obese. [NIH]("https://web.archive.org/web/20120126083740/http://www.ncbi.nlm.nih.gov/pubmed/17234901?dopt=Citation") </p>
+
+<hr class="major" />
+
+<h2>Obesity and Memory</h2>
+<p>Alzheimer’s disease and dementia is a condition that causes your brain cells to die and a decline in the ability to think. When you are obese, the risk of getting these condition increases about 6%. That brings your chances from 36% to a 42% risk. [NIH]("https://web.archive.org/web/20130505210318/http://www.ncbi.nlm.nih.gov/pubmed/18331422") </p>

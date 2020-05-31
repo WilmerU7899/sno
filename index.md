@@ -5,35 +5,36 @@ layout: default
 <!-- Section -->
 <section>
 	<header class="major">
-		<h2>Erat lacinia</h2>
+		<h2>Why teenagers?</h2>
 	</header>
 	<div class="features">
 		<article>
 			<span class="icon fa-diamond"></span>
 			<div class="content">
-				<h3>Portitor ullamcorper</h3>
-				<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+				<h3>Age</h3>
+				<p>Teenagers are at the age where their metabolism is fast. It would be easier to lose weight now and maintain your desired weight, than losing weight later in life. </p>
 			</div>
 		</article>
 		<article>
 			<span class="icon fa-paper-plane"></span>
 			<div class="content">
-				<h3>Sapien veroeros</h3>
-				<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+				<h3>Educate</h3>
+				<p>Many teenages eat junk food because it is easy to grab, tastes good, and keeps you satisfied until the school day is over. Showing them the effects of this could help their health in the long run. </p>
 			</div>
 		</article>
 		<article>
 			<span class="icon fa-rocket"></span>
 			<div class="content">
-				<h3>Quam lorem ipsum</h3>
-				<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+				<h3>Sleep</h3>
+				<p>Because of early mornings and sports teams, students often lack the recommended hours needed for the body to function. They go to school exhausted or buy coffee in the morning which can lead to detrimental consequences. 
+</p>
 			</div>
 		</article>
 		<article>
 			<span class="icon fa-signal"></span>
 			<div class="content">
-				<h3>Sed magna finibus</h3>
-				<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+				<h3>Exercise</h3>
+				<p>Nowadays, people are becoming more and more aware of exercising, especially students. They might stay active so they could feel like they are good in their new clothes, but they might not know the real benefits for staying fit. </p>
 			</div>
 		</article>
 	</div>

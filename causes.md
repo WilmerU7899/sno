@@ -12,17 +12,13 @@ image: assets/images/pic11.jpg
 <h2>Genetics</h2>
 <p>Genetics affect the hormones that regulate fat. One genetic that causes obesity is leptin deficiency. Laptin is the hormone that is produced in fat cells and placenta. It controls the weight by signaling the brain to eat less when body fat stores are too high.  If the body cannot produce enough leptin, the brain will not get the signal to eat less, causing you to lose control of how much you eat, which could lead to obesity. The role of leptin replacement as a treatment for obesity is under exploration.</p>
 <p>Despite major belief, genetics does not play a major role in obesity. Even though a person is more likely to develop obesity if one or both parent are obese, it can be counteract by a healthy life style. </p>
-<p>Genes to obesity risk is small, while obesity to environment risk is huge. Toxic environments can influence people to buy unhealthy foods which would increase their chances of getting obese. “Genes may co-determine who becomes obese, but our environment determines how many become obese.” PLOS That’s why obesity prevention efforts should be focused on changing the toxic environment around us, influencing us to make healthier choices. 
-
- </p>
+<p>Genes to obesity risk is small, while obesity to environment risk is huge. Toxic environments can influence people to buy unhealthy foods which would increase their chances of getting obese. “Genes may co-determine who becomes obese, but our environment determines how many become obese.” PLOS That’s why obesity prevention efforts should be focused on changing the toxic environment around us, influencing us to make healthier choices. </p>
 
 <hr class="major" />
 
 <h2>Early Life</h2>
-<p>The time before just before conceiving can have a huge impact on an individual's weight at birth, during childhood and continuing into adulthood. 
-</p>
-<p>Childrens with mothers who smoke or who are overweight may have a higher change of being an obese adult. Being breastfed may lower the risk.
-</p>
+<p>The time before just before conceiving can have a huge impact on an individual's weight at birth, during childhood and continuing into adulthood. </p>
+<p>Childrens with mothers who smoke or who are overweight may have a higher change of being an obese adult. Being breastfed may lower the risk.</p>
 <p>Tips for healthy baby weight:</p>
 
 * Strive for a healthy baby weight before pregnancy

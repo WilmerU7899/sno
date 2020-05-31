@@ -19,7 +19,6 @@ image: assets/images/pic11.jpg
 <h3>Normal thinking abilities </h3>
 <p>Children and adolescents are the most susceptible to the negative effects of sleep deprivation. It is known that sleep deprivation weakens the prefrontal cortex, which is responsible for handling reason and the amygdala which controls emotions. WIthout sleep, the brain uses an abnormal process for emotion. Sleep-deprived people tend to feel more worthless, powerless, and overall have a lower self esteem. They have a worse job performance and a reduced quality of life. They lack motivation and have decreased willingness to solve problems. This is because sleep is necessary for learning. Without the recommended hours, people have difficulty concentrating.</p>
 
-
 <h2>Accidents</h2>
 <p>During sleep deprivation, the body attempts to balance the need for sleep by doing short sleep attacks. This is an uncontrollable brain response that causes a person to be unable to process its surrounding and sensory information for a short amount of time. During this brief time period, the person’s eyes often remain open, but they are essentially “zoned out”. Despite the person’s attempt to stay awake, it won’t work because of this build in mechanism. It would be exceedingly difficult to continue to be awake past 48 hours straight.</p>
 

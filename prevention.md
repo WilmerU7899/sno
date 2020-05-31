@@ -1,10 +1,29 @@
 ---
 layout: page
-title: Trends
+title: Prevention
 image: assets/images/pic11.jpg
 ---
 
-<p>The most basic definition of obesity is having too much body fat. A way to simply calculate this is by measuring their BMI or body mass index. This method uses someone's height and weight. You can use an [online calculator] (https://patient.info/doctor/bmi-calculator-calculator) for this. A healthy BMI for an adult man and women is anywhere between 18.5 and 24.9. Anything over that would be considered as an overweight BMI. </p>
+<p>Healthy Weight Checklist</p>
+1.Eat well
+Food choices:      -    Whole grains (whole wheat, steel cut oats, brown rice, quinoa)
+Vegetables (a colorful variety-not potatoes)
+Whole fruits (not fruit juices)
+Nuts, seeds, beans, and other healthful sources of protein (fish and poultry)
+Plant oils (olive and other vegetable oils)
+Drink water or other beverages that are naturally calorie-free.
+Limit:		       -    Sugar-sweetened beverages (soda, fruit drinks, sports drinks)
+Fruit juice (no more than a small amount per day)
+Refined grains(white bread, white rice, white pasta) and sweets
+Potatoes (baked or fried)
+Red meat (beef, pork, lamb) and processed meats (salami, ham, bacon, sausage)
+Other highly processed foods, such as fast food
+
+2.Avoid Overeating
+Eat breakfast. Skipping breakfast can usually lead to a rage of hunger in the middle of the day, which would lead to overeating.
+Choose small portions and eat slowly. With this method, you can avoid overeating and give time for the stomach to send a signal to the brain saying it's full.
+Eat at home. Restaurants tend to have larger portions while having less nutritions.
+
 
 
 <p>Having too much fat around the middle would be considered abdominal obesity. This is independent from your BMI. The simplest and most often way to measure abdominal obesity is to measure your waist size. A woman with a waist of 35 inches or higher and a man with a waist that is 40 inches or higher would be considered to have abdominal obesity. </p>

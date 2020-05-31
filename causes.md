@@ -62,9 +62,13 @@ image: assets/images/pic11.jpg
 * Don’t drink fruit juices or soda
 * High protein diet
 
+<hr class="major" />
+
 <h2>Activity </h2>
 <p>Being active for at least 30 minutes per day for the majority of the week can lower the risk of obesity. But to stay at a healthy weight, or to lose weight, most people need at least an hour of physical activity per day. </p>
 <p>Staying active is not purely someone's choice. Build environments like transportation systems or buildings can influence how much we move around. NIH </p>
+
+<hr class="major" /> 
 
 <h2>Toxic Environment </h2>
 <p>The environment around us can influence what we eat. For example, if it is difficult to access healthy food and easy to access candy from a convenience store, we would tend to gravitate towards the candy. Sometimes marketing for unhealthy foods and sugary drinks are unavoidable. Junk foods can be sold at school, work, or at the corner store. They are also displayed on television which create a desire for the food. Television also causes people to be less active throughout the day, which can also contribute to weight gain. </p>
@@ -74,6 +78,8 @@ image: assets/images/pic11.jpg
 <p>Since fast food chains and convenience stores are on every block, they have become an easy way to get food. However, stores like these often offer less variety at higher prices. The quality of the produce is also lower than supermarkets. NIH When smaller stores stock healthier foods, people living in that area also eat better. NIH </p>
 
 <p>As you can see, the food environment, what type of food is available and how much it costs and persuade people’s diets. The increased access to cheap and unhealthy food along with the urban lifestyle can lead to obesity and other health conditions. </p>
+
+<hr class="major" />
 
 <h2>Psychological Factors</h2>
 <p>For some people emotions might be their cause for overeating. People can have an unhealthy way of processing their emotions by eating food. Boredom, sadness, stress or anger can all cause binge eating. </p>

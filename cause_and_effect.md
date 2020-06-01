@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cause and Effects
-image: assets/images/pic11.jpg
+image: <a class="image"><img src="https://i0.wp.com/www.thesun.co.uk/wp-content/uploads/2017/05/as-comp-sleep-deprivation.jpg?crop=0px%2C0px%2C750px%2C500px&resize=1200%2C800&ssl=1" alt="" /></a>
 ---
 
 <hr class="major" />

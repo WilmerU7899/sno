@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Diagnosis
-image: assets/images/pic11.jpg
+image: <a class="image"><img src="hhttps://reporter.rit.edu:8443/sites/pubDir/slideShow/12-18/1373-2215-675980753.png" alt="" /></a>
 ---
 
 

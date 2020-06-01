@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Solution
-image: assets/images/pic11.jpg
+image: <a class="image"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZ-t-0I4j5ZAE20apKPInjnF2PfQkyugtn3uTbosrAkGYmpFdb&usqp=CAU" alt="" /></a>
 ---
 
 <hr class="major" />

@@ -20,7 +20,7 @@ image: assets/images/pic11.jpg
 <p>The time before just before conceiving can have a huge impact on an individual's weight at birth, during childhood and continuing into adulthood. </p>
 <p>Childrens with mothers who smoke or who are overweight may have a higher change of being an obese adult. Being breastfed may lower the risk.</p>
 <p>Tips for healthy baby weight:</p>
->* Strive for a healthy baby weight before pregnancy
+* Strive for a healthy baby weight before pregnancy
 * Don’t smoke during pregnancy
 * Aim for a reasonable weight gain during pregnancy
 * Breastfeed
@@ -49,7 +49,7 @@ image: assets/images/pic11.jpg
 <p>_Red Meat_: High and processed meat are associated with an increased risk in diabetes, colon cancer, and  heart disease.</p>
 
 <p>_Tips_: (An average adult gains about a pound a year, which is too slow for most people to notice. However, these pounds can add up.)</p>
->* Choose minimally processed foods: whole grains, vegetables, fruits, nuts, healthful sources of protein (fish, poultry, beans), and plant oil
+* Choose minimally processed foods: whole grains, vegetables, fruits, nuts, healthful sources of protein (fish, poultry, beans), and plant oil
 * Limit highly processed foods: sugary beverages, refined grains, potatoes, red and processed meats
 * Avoid takeout: Fast foods have large proteins at low prices with high palatability and sugar content. 
 * Smaller Portion sizes: Study shows that when given larger portion sizes, people tend to eat more. [Oxford]("https://academic.oup.com/ajcn/article/82/1/236S/4863399")

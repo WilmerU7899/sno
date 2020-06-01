@@ -26,7 +26,7 @@ layout: default
 			<span class="icon fa-rocket"></span>
 			<div class="content">
 				<h3>Sleep</h3>
-				<p>Because of early mornings and sports teams, students often lack the recommended hours needed for the body to function. They go to school exhausted or buy coffee in the morning which can lead to detrimental consequences. 
+				<p>Because of early mornings and sports teams, students often lack the recommended hours needed for the body to function. They go to school exhausted or buy coffee in the morning which can lead to detrimental consequences.
 </p>
 			</div>
 		</article>
@@ -56,10 +56,10 @@ layout: default
 			</ul>
 		</article>
 		<article>
-		
-	<!--		[![Image](_site/assets/images/number_deaths.png)]-->
-			
-		<a href="https://ourworldindata.org/obesity" class="image"><img src="_site/assets/images/number_deaths.png" alt="" /></a>
+
+			[![Image](_site/assets/images/number_deaths.png)]
+
+		<!--<a href="https://ourworldindata.org/obesity" class="image"><img src="_site/assets/images/number_deaths.png" alt="" /></a>-->
 			<h3>Number of Deaths by Risk Factor, World, 2017</h3>
 			<p>The chart shows obesity as one of the top five causes of death by risk factors. Even though it's not the main cause of death, a majority of health problems come from obesity, like high blood pressure. Which caused the death of 10.4 million.
 			</p>
@@ -70,7 +70,7 @@ layout: default
 		<article>
 			<a href="#" class="image"><img src="assets/images/pic03.jpg" alt="" /></a>
 			<h3>Sleep VS BMI</h3>
-			<p>The study compares the body mass index of medical students to the number of hours they slept per night. The result of this experiment was short-sleep duration was significantly associated with the increase risk of being overweight and obese. 
+			<p>The study compares the body mass index of medical students to the number of hours they slept per night. The result of this experiment was short-sleep duration was significantly associated with the increase risk of being overweight and obese.
 			</p>
 			<ul class="actions">
 				<li><a href="https://www.researchgate.net/figure/The-relationship-between-fewer-hours-of-sleep-per-day-and-the-incidence-of-high-body-mass_fig1_313374915" class="button">More</a></li>

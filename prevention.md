@@ -4,7 +4,7 @@ title: Prevention
 image: assets/images/pic11.jpg
 ---
 
-<p>Healthy Weight Checklist</p>
+<h2>Healthy Weight Checklist</h2>
 1. **Eat well**
     * Food choices:
         *  Whole grains (whole wheat, steel cut oats, brown rice, quinoa)

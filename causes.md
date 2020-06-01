@@ -70,7 +70,9 @@ image: assets/images/pic11.jpg
 
 <p>Nutritious foods could also be more expensive than junk food. In the past 30 years, the price of fruit and vegetables rose much faster than the prices of all other consumer goods in the U.S. At the same time, the price for candy and carbonated drinks declines relative to the other products. This forced people to consume more sugars than whole foods, simply because they could not afford it.</p> [NIH]("https://pubmed.ncbi.nlm.nih.gov/19357400/?dopt=Citation") 
 
-<p>Since fast food chains and convenience stores are on every block, they have become an easy way to get food. However, stores like these often offer less variety at higher prices. The quality of the produce is also lower than supermarkets. [NIH]("https://pubmed.ncbi.nlm.nih.gov/17881277/?dopt=Citation") When smaller stores stock healthier foods, people living in that area also eat better.</p> [NIH]("https://pubmed.ncbi.nlm.nih.gov/18207475/?dopt=Citation") 
+<p>Since fast food chains and convenience stores are on every block, they have become an easy way to get food. However, stores like these often offer less variety at higher prices. The quality of the produce is also lower than supermarkets.  When smaller stores stock healthier foods, people living in that area also eat better.</p>
+[NIH]("https://pubmed.ncbi.nlm.nih.gov/17881277/?dopt=Citation")
+[NIH]("https://pubmed.ncbi.nlm.nih.gov/18207475/?dopt=Citation") 
 
 <p>As you can see, the food environment, what type of food is available and how much it costs and persuade people’s diets. The increased access to cheap and unhealthy food along with the urban lifestyle can lead to obesity and other health conditions. </p>
 

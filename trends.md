@@ -20,8 +20,9 @@ image: assets/images/pic11.jpg
 <p>A youth who is overweight or obese have a considerably [higher chance](https://pubmed.ncbi.nlm.nih.gov/12241736/) of remaining overweight or obese as they become adults. Along with obesity, they also have a higher risk of catching diseases or [disability](https://pubmed.ncbi.nlm.nih.gov/18331423/) later in life.
 </p>
 
-<p>In the United States alone, childhood obesity rates have tripled over the past 30 years. Today, the country has one of the [highest obesity rates](https://pubmed.ncbi.nlm.nih.gov/22253364/); with one out of six children obese and one out of three children being overweight. In 1970, 5% of children ages 2 to 9 were obese. In [2020](https://www.cdc.gov/obesity/data/childhood.html), 18.5% of the same age group are obese; that is 13.7 million children. </p>
-
+<p>In the United States alone, childhood obesity rates have tripled over the past 30 years. Today, the country has one of the highest obesity rates; with one out of six children obese and one out of three children being overweight. In 1970, 5% of children ages 2 to 9 were obese. In 2020, 18.5% of the same age group are obese; that is 13.7 million children. </p>
+[NIH](https://pubmed.ncbi.nlm.nih.gov/22253364/)
+[CDC](https://www.cdc.gov/obesity/data/childhood.html)
 <a class="image"><img src="https://bloximages.chicago2.vip.townnews.com/mebaneenterprise.com/content/tncms/assets/v3/editorial/9/d7/9d7e0c5c-5460-11e8-8516-8ff0bba9c68f/5af45b2c5d872.image.jpg?resize=400%2C260" alt="" /></a>
 
 <h4>Adult Obesity</h4>

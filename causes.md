@@ -32,7 +32,7 @@ image: assets/images/pic11.jpg
 <h2>Poor Diet </h2>
 <p>A diet high in simple carbs or high in calories can lead to obesity.</p>
 
-_Overeating_<p>: Overeating can lead to weight gain, especially if the diet is high in fats. Foods high in fat or sugar have high energy density and can contribute to weight gain. In simple words, fast food or sweets have a lot of calories in a small amount of food. </p>
+<p>_Overeating_: Overeating can lead to weight gain, especially if the diet is high in fats. Foods high in fat or sugar have high energy density and can contribute to weight gain. In simple words, fast food or sweets have a lot of calories in a small amount of food. </p>
 
 <p>_Frequent eating_: Scientists have observed that people who eat smaller meals four or five times daily, have lower cholesterol levels and blood sugar levels than people who have two to three large meals a day. One explanation of this is small meals produce stable insulin levels, whereas larger means cause a large spike of insulins after meals.</p>
 

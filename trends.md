@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Trends
-image: https://www.futureproofinsurance.co.uk/wp-content/uploads/2017/12/BMI-4-silhouettes-image.jpg
+image: <a class="image"><img src="https://www.futureproofinsurance.co.uk/wp-content/uploads/2017/12/BMI-4-silhouettes-image.jpg" alt="" /></a>
 ---
 <h2>Definition</h2>
 <p>The most basic definition of obesity is having too much body fat. A way to simply calculate this is by measuring their BMI or body mass index. This method uses someone's height and weight. You can use an online calculator for this. A healthy BMI for an adult man and women is anywhere between 18.5 and 24.9. Anything over that would be considered as an overweight BMI. </p>

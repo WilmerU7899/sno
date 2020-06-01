@@ -5,7 +5,7 @@ image: assets/images/pic11.jpg
 ---
 
 <p>Healthy Weight Checklist</p>
-1. *Eat well*
+1. **Eat well**
     * Food choices:
         *  Whole grains (whole wheat, steel cut oats, brown rice, quinoa)
         * Vegetables (a colorful variety-not potatoes)
@@ -50,7 +50,7 @@ Eat at home. Restaurants tend to have larger portions while having less nutritio
         * 3-5 years old: 11 to 13 hours a night
         * 5-12 years old: 10 to 11 hours a night
         * Adolescents: 8.5 to 9.25 hours a night
-6. **Good Start*8
+6. **Good Start**
 * During pregnancy:
         * Try to start pregnancy at a healthy weight.
         * Don’t smoke during pregnancy.

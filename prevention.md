@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Prevention
-image: <a class="image"><img src="images/homepage.jpeg" alt="" /></a>
+image: <a class="image"><img src="images/obesity_banner.jpeg" alt="" /></a>
 ---
 
 <h2>Healthy Weight Checklist</h2>

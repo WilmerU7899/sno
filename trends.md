@@ -17,7 +17,7 @@ image: assets/images/pic11.jpg
 <h2>Obesity Trend</h2>
 
 <h6>Child Obesity</h6>
-<p>A youth who is overweight or obese have a considerably [higher chance]("https://pubmed.ncbi.nlm.nih.gov/12241736/") of remaining overweight or obese as they become adults. Along with obesity, they also have a higher risk of catching diseases or [disability]("https://pubmed.ncbi.nlm.nih.gov/18331423/") later in life.
+<p>A youth who is overweight or obese have a considerably [higher chance](https://pubmed.ncbi.nlm.nih.gov/12241736/) of remaining overweight or obese as they become adults. Along with obesity, they also have a higher risk of catching diseases or [disability](https://pubmed.ncbi.nlm.nih.gov/18331423/) later in life.
 </p>
 <p>In the United States alone, childhood obesity rates have tripled over the past 30 years. Today, the country has one of the [highest obesity rates](https://pubmed.ncbi.nlm.nih.gov/22253364/); with one out of six children obese and one out of three children being overweight. In 1970, 5% of children ages 2 to 9 were obese. In [2020](https://www.cdc.gov/obesity/data/childhood.html), 18.5% of the same age group are obese; that is 13.7 million children. </p>
 

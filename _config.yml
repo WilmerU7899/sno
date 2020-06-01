@@ -1,7 +1,7 @@
 # Site settings
 title: SNO
 subtitle: by Wilmer Uguna & Alana Liu
-email: alanananl7377@hstat.org wilmeru7899@hstat.org
+email: wilmeru7899@hstat.org alanananl7377@hstat.org
 description: Correlation of Sleep and Obesity
 baseurl: "/sno" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site

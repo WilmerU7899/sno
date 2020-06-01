@@ -9,7 +9,7 @@ image: assets/images/pic11.jpg
 
 <hr class="major" />
 
-<h2>Genetics</h2>
+
 <p>University of Colorado found that when participants slept for about 5 hours a night for a week, they gained on average two pounds. </p>
 <p>In adults, sleeping four hours a night, compared with 10 hours a night, appears to increase hunger and appetite — in particular for calorie-dense foods high in carbohydrates. Observational studies also suggest a link between sleep restriction and obesity. Other studies have found similar patterns in children and adolescents. Mayoclinic</p>
 <p>A British study followed more than 8,000 children from birth and tracked how many hours they slept. Kids who slept less than 10.5 hours at the age of three has a 45% increase risk of becoming obese by the age of seven, compared to children who slept more then 12 hours at night. NIH</p>

@@ -56,7 +56,7 @@ layout: default
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
+			<a href="#" class="image"><img src="assets/images/number_deaths.png" alt="" /></a>
 			<h3>Number of Deaths by Risk Factor, World, 2017</h3>
 			<p>The chart shows obesity as one of the top five causes of death by risk factors. Even though it's not the main cause of death, a majority of health problems come from obesity, like high blood pressure. Which caused the death of 10.4 million.
 			</p>

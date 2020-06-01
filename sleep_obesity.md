@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Obesitiy + Sleep
+title: Sleep + Obesity
 image: assets/images/pic11.jpg
 ---
 

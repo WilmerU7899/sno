@@ -47,7 +47,7 @@ layout: default
 	</header>
 	<div class="posts">
 		<article>
-			<a href="#" class="image"><img src="../assets/images/obesity_in_boys.png" alt="" /></a>
+			<a href="#" class="image"><img src="assets/images/obesity_in_boys.png" alt="" /></a>
 			<h3>Obesity Prevalence In Boys (2016)</h3>
 			<p>The rise of obesity worldwide gives us a warning sign; showing us that even in the poorest countries it is still growing. With the lack of policies targeting unhealthy food and enforcing quality healthcare, can make obesity worse.
 			</p>

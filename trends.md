@@ -9,7 +9,7 @@ image: assets/images/pic11.jpg
 
 <p>Having too much fat around the middle would be considered abdominal obesity. This is independent from your BMI. The simplest and most often way to measure abdominal obesity is to measure your waist size. A woman with a waist of 35 inches or higher and a man with a waist that is 40 inches or higher would be considered to have abdominal obesity. </p>
 
-<p>There are three different methods to measure body fat. Two methods were mentioned in the last two paragraphs but the last method requires specialized equipment. One of these machines is the magnetic resonance imaging [MRI]("https://www.radiologyinfo.org/en/info.cfm?pg=bodymr") which produces a powerful magnetic field to show a detailed picture of the inside of your body. Another machine is dual-energy x-ray absorptiometry [DXA]("https://www.radiologyinfo.org/en/info.cfm?pg=dexa") or bone densitometry. This is used to measure bone density and bone loss. 
+<p>There are three different methods to measure body fat. Two methods were mentioned in the last two paragraphs but the last method requires specialized equipment. One of these machines is the magnetic resonance imaging [MRI]("https://www.radiologyinfo.org/en/info.cfm?pg=bodymr") which produces a powerful magnetic field to show a detailed picture of the inside of your body. Another machine is dual-energy x-ray absorptiometry [DXA]("https://www.radiologyinfo.org/en/info.cfm?pg=dexa") or bone densitometry. This is used to measure bone density and bone loss.
 </p>
 
 <hr class="major" />
@@ -17,19 +17,19 @@ image: assets/images/pic11.jpg
 <h2>Obesity Trend</h2>
 
 <h6>Child Obesity</h6>
-<p>A youth who is overweight or obese have a considerably [higher chance]("https://pubmed.ncbi.nlm.nih.gov/12241736/") of remaining overweight or obese as they become adults. Along with obesity, they also have a higher risk of catching diseases or [disability]("https://pubmed.ncbi.nlm.nih.gov/18331423/") later in life. 
+<p>A youth who is overweight or obese have a considerably [higher chance]("https://pubmed.ncbi.nlm.nih.gov/12241736/") of remaining overweight or obese as they become adults. Along with obesity, they also have a higher risk of catching diseases or [disability]("https://pubmed.ncbi.nlm.nih.gov/18331423/") later in life.
 </p>
-<p>In the United States alone, childhood obesity rates have tripled over the past 30 years. Today, the country has one of the [highest obesity rates]("https://pubmed.ncbi.nlm.nih.gov/22253364/"); with one out of six children obese and one out of three children being overweight. In 1970, 5% of children ages 2 to 9 were obese. In [2020]("https://www.cdc.gov/obesity/data/childhood.html"), 18.5% of the same age group are obese; that is 13.7 million children. </p>
+<p>In the United States alone, childhood obesity rates have tripled over the past 30 years. Today, the country has one of the [highest obesity rates](https://pubmed.ncbi.nlm.nih.gov/22253364/); with one out of six children obese and one out of three children being overweight. In 1970, 5% of children ages 2 to 9 were obese. In [2020](https://www.cdc.gov/obesity/data/childhood.html), 18.5% of the same age group are obese; that is 13.7 million children. </p>
 
 <h6>Adult Obesity</h6>
-<p>Globally, there is 500 million [adults]("https://pubmed.ncbi.nlm.nih.gov/22253363/") who are obese. In the United States, two out of three adults are overweight or obese. That's more than 50% of adults.</p>
+<p>Globally, there is 500 million [adults](https://pubmed.ncbi.nlm.nih.gov/22253363/) who are obese. In the United States, two out of three adults are overweight or obese. That's more than 50% of adults.</p>
 
 <hr class="major" />
 
 <!--<h2>Child Obesity</h2>
-<p>A youth who is overweight or obese have a considerably higher chance of remaining overweight or obese as they become adults. Along with obesity, they also have a higher risk of catching diseases or disability later in life. 
+<p>A youth who is overweight or obese have a considerably higher chance of remaining overweight or obese as they become adults. Along with obesity, they also have a higher risk of catching diseases or disability later in life.
 </p>
-<p>In the United States alone, childhood obesity rates have tripled over the past 30 years. Today, the country has one of the highest obesity rates; with one out of six children obese and one out of three children being overweight. In 1970, 5% of children ages 2 to 9 were obese. In 2020, 18.5% of the same age group are obese; that is 13.7 million children. 
+<p>In the United States alone, childhood obesity rates have tripled over the past 30 years. Today, the country has one of the highest obesity rates; with one out of six children obese and one out of three children being overweight. In 1970, 5% of children ages 2 to 9 were obese. In 2020, 18.5% of the same age group are obese; that is 13.7 million children.
 </p>
 
 <hr class="major" />

@@ -67,7 +67,7 @@ layout: default
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/pic03.jpg" alt="" /></a>
+			<a href="#" class="image"><img src="https://www.researchgate.net/profile/Tapaswini_Mishra/publication/313374915/figure/fig1/AS:578247680118785@1514876398564/The-relationship-between-fewer-hours-of-sleep-per-day-and-the-incidence-of-high-body-mass.png" alt="" /></a>
 			<h3>Sleep VS BMI</h3>
 			<p>The study compares the body mass index of medical students to the number of hours they slept per night. The result of this experiment was short-sleep duration was significantly associated with the increase risk of being overweight and obese.
 			</p>
@@ -76,7 +76,7 @@ layout: default
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/pic04.jpg" alt="" /></a>
+			<a href="#" class="image"><img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-019-45951-0/MediaObjects/41598_2019_45951_Fig1_HTML.png?as=webp" alt="" /></a>
 			<h3>Sleep Duration with Obesity & Cardiometabolic Risk Factor</h3>
 			<p>This study was conceived from children and adolescents. In simple words, this chart shows how frequent obesity and sleep correlate. When boys and girls sleep the recommended hours, they has a lower chance of getting obese. However when the boys and girl sleep less or more then the recommended hours, they have a higher chance of getting obese. </p>
 			<ul class="actions">
@@ -84,7 +84,7 @@ layout: default
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/pic05.jpg" alt="" /></a>
+			<a href="#" class="image"><img src="http://cdn1.vox-cdn.com/assets/4603331/Sleep_timeline.png" alt="" /></a>
 			<h3>Americans are sleeping less than they use to</h3>
 			<p>This Gallup data displays a massive change in sleep between 1942's and 1990's. Throughout the last couple of decades, people are not getting the recommended hours each night. </p>
 			<ul class="actions">
@@ -92,7 +92,7 @@ layout: default
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/pic06.jpg" alt="" /></a>
+			<a href="#" class="image"><img src="http://cdn1.vox-cdn.com/assets/4603747/Sleep_difficulties.png" alt="" /></a>
 			<h3>Lack of sleep VS Concentration</h3>
 			<p>In this CDC analysis, it portrays people struggling to accomplish everyday task when they don’t sleep the recommended hours. /  </p>
 			<ul class="actions">

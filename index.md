@@ -47,7 +47,7 @@ layout: default
 	</header>
 	<div class="posts">
 		<article>
-			<a href="#" class="image"><img src="https://media.npr.org/assets/img/2017/10/11/lancet-obesity-boys_custom-829fdd98a0fa200b3579614e5839311494273a0b-s800-c85.png" alt="Girl in a jacket" alt="" /></a>
+			<a href="#" class="image"><img src="https://media.npr.org/assets/img/2017/10/11/lancet-obesity-boys_custom-829fdd98a0fa200b3579614e5839311494273a0b-s800-c85.png" alt="" /></a>
 			<h3>Obesity Prevalence In Boys (2016)</h3>
 			<p>The rise of obesity worldwide gives us a warning sign; showing us that even in the poorest countries it is still growing. With the lack of policies targeting unhealthy food and enforcing quality healthcare, can make obesity worse.
 			</p>
@@ -57,7 +57,8 @@ layout: default
 		</article>
 		<article>
 
-			<a href="#" class="image"><img src="assets/images/boys_risk.png" alt="" /></a>
+			<a href="#" class="image"><img
+			src="https://ourworldindata.org/grapher/exports/number-of-deaths-by-risk-factor.png?v=13" alt="" /></a>
 			<h3>Number of Deaths by Risk Factor, World, 2017</h3>
 			<p>The chart shows obesity as one of the top five causes of death by risk factors. Even though it's not the main cause of death, a majority of health problems come from obesity, like high blood pressure. Which caused the death of 10.4 million.
 			</p>

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Causes
-image: assets/images/pic11.jpg
+image: https://toppng.com/uploads/preview/causes-of-obesity-childhood-obesity-factors-11562960352xoyne5l6cm.png
 ---
 
 <p>Obesity is caused from someone regularly taking in more calories than their body needs. The body stories the excess energy as body fat and over time that body fat adds up. If someone eats less calories, then burn it, their weight goes down </p>

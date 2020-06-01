@@ -32,23 +32,23 @@ image: assets/images/pic11.jpg
 <h2>Poor Diet </h2>
 <p>A diet high in simple carbs or high in calories can lead to obesity.</p>
 
-<p>_Overeating_: Overeating can lead to weight gain, especially if the diet is high in fats. Foods high in fat or sugar have high energy density and can contribute to weight gain. In simple words, fast food or sweets have a lot of calories in a small amount of food. </p>
+<p>Overeating: Overeating can lead to weight gain, especially if the diet is high in fats. Foods high in fat or sugar have high energy density and can contribute to weight gain. In simple words, fast food or sweets have a lot of calories in a small amount of food. </p>
 
-<p>_Frequent eating_: Scientists have observed that people who eat smaller meals four or five times daily, have lower cholesterol levels and blood sugar levels than people who have two to three large meals a day. One explanation of this is small meals produce stable insulin levels, whereas larger means cause a large spike of insulins after meals.</p>
+<p>Frequent eating: Scientists have observed that people who eat smaller meals four or five times daily, have lower cholesterol levels and blood sugar levels than people who have two to three large meals a day. One explanation of this is small meals produce stable insulin levels, whereas larger means cause a large spike of insulins after meals.</p>
 
-<p>_Simple Carbohydrates_: Simple carbs are sugars, fructose, desserts, soft drinks, beer, etc are rapidly absorbed into your bloodstream. This promotes a growth of fat tissue and weight gain by increasing blood glucose levels which in turn stimulate insulin release by the pancreas & insulin. Foods like brown rice, grains, vegetables, and raw fruits have a slower release of insulin since the structure of the carbohydrates are more complex; therefore taking more time to break down. </p>
+<p>Simple Carbohydrates: Simple carbs are sugars, fructose, desserts, soft drinks, beer, etc are rapidly absorbed into your bloodstream. This promotes a growth of fat tissue and weight gain by increasing blood glucose levels which in turn stimulate insulin release by the pancreas & insulin. Foods like brown rice, grains, vegetables, and raw fruits have a slower release of insulin since the structure of the carbohydrates are more complex; therefore taking more time to break down. </p>
 
-<p>_Fast Food_: CARDIA studies followed 3,000 young adults for 13 years. The results showed that people who have higher fast-food-intake levels at the start of the study weigh on average 13 lbs more than people who have lower levels of fast-food-intake.</p>
+<p>Fast Food: CARDIA studies followed 3,000 young adults for 13 years. The results showed that people who have higher fast-food-intake levels at the start of the study weigh on average 13 lbs more than people who have lower levels of fast-food-intake.</p>
 
-<p>_Skipping breakfast_: While the relation betweens skipping breakfast and obesity are inconclusive, study has shown that it increases weight gain and obesity. Skipping breakfast would influence children to get snacks. Children get 27% of their daily calories from snacks, primarily on deserts and sugary drinks.</p> [NIH]("https://pubmed.ncbi.nlm.nih.gov/20237134/")
+<p>Skipping breakfast: While the relation betweens skipping breakfast and obesity are inconclusive, study has shown that it increases weight gain and obesity. Skipping breakfast would influence children to get snacks. Children get 27% of their daily calories from snacks, primarily on deserts and sugary drinks.</p> [NIH]("https://pubmed.ncbi.nlm.nih.gov/20237134/")
 
-<p>_Fruit Juices_: Even those 100% fruit juices, with no added sugar are high in sugar and calories. Havard school of Public health conducted a study which tracked the diet and lifestyle habits of 120,000 men and women for up to 20 years. The conclusion portrayed that people who increase their intake on fruit juices ended up weighing more. </p>[NIH]("https://pubmed.ncbi.nlm.nih.gov/21696306/")
+<p>Fruit Juices: Even those 100% fruit juices, with no added sugar are high in sugar and calories. Havard school of Public health conducted a study which tracked the diet and lifestyle habits of 120,000 men and women for up to 20 years. The conclusion portrayed that people who increase their intake on fruit juices ended up weighing more. </p>[NIH]("https://pubmed.ncbi.nlm.nih.gov/21696306/")
 
-<p>_Protein_: High protein diet may help with weight control by making them feel more satisfied on fewer calories, greater thermic effect to store burned energy and improve body composition. Protein seems to help people hand on to lean muscle which in turn can boost the amount of energy burned.</p>
+<p>Protein: High protein diet may help with weight control by making them feel more satisfied on fewer calories, greater thermic effect to store burned energy and improve body composition. Protein seems to help people hand on to lean muscle which in turn can boost the amount of energy burned.</p>
 
-<p>_Red Meat_: High and processed meat are associated with an increased risk in diabetes, colon cancer, and  heart disease.</p>
+<p>Red Meat: High and processed meat are associated with an increased risk in diabetes, colon cancer, and  heart disease.</p>
 
-<p>_Tips_: (An average adult gains about a pound a year, which is too slow for most people to notice. However, these pounds can add up.)</p>
+<p>Tips: (An average adult gains about a pound a year, which is too slow for most people to notice. However, these pounds can add up.)</p>
 * Choose minimally processed foods: whole grains, vegetables, fruits, nuts, healthful sources of protein (fish, poultry, beans), and plant oil
 * Limit highly processed foods: sugary beverages, refined grains, potatoes, red and processed meats
 * Avoid takeout: Fast foods have large proteins at low prices with high palatability and sugar content. 

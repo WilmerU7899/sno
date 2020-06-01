@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Basics
-image: assets/images/pic11.jpg
+image: <a class="image"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7da8ce5c-02ce-479f-ba64-8fad76b9a064/d83yz0u-6a200cb1-f39b-4ae7-88b0-d9d949bfe1be.jpg/v1/fill/w_354,h_250,q_70,strp/dreaming_light_by_rhads_d83yz0u-250t.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD02MzciLCJwYXRoIjoiXC9mXC83ZGE4Y2U1Yy0wMmNlLTQ3OWYtYmE2NC04ZmFkNzZiOWEwNjRcL2Q4M3l6MHUtNmEyMDBjYjEtZjM5Yi00YWU3LTg4YjAtZDlkOTQ5YmZlMWJlLmpwZyIsIndpZHRoIjoiPD05MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.XfQ0JfqDj4Kd6tp61C3bSDrhzz5Tb9oldaQkCTnfsz0" alt="" /></a>
 ---
 
 <hr class="major" />

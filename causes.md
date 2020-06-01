@@ -12,8 +12,8 @@ image: assets/images/pic11.jpg
 <h2>Genetics</h2>
 <p>Genetics affect the hormones that regulate fat. One genetic that causes obesity is leptin deficiency. Laptin is the hormone that is produced in fat cells and placenta. It controls the weight by signaling the brain to eat less when body fat stores are too high.  If the body cannot produce enough leptin, the brain will not get the signal to eat less, causing you to lose control of how much you eat, which could lead to obesity. The role of leptin replacement as a treatment for obesity is under exploration.</p>
 <p>Despite major belief, genetics does not play a major role in obesity. Even though a person is more likely to develop obesity if one or both parent are obese, it can be counteract by a healthy life style. </p>
-<p>Genes to obesity risk is small, while obesity to environment risk is huge. Toxic environments can influence people to buy unhealthy foods which would increase their chances of getting obese. “Genes may co-determine who becomes obese, but our environment determines how many become obese.” [PLOS]("https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001114") That’s why obesity prevention efforts should be focused on changing the toxic environment around us, influencing us to make healthier choices. </p>
-
+<p>Genes to obesity risk is small, while obesity to environment risk is huge. Toxic environments can influence people to buy unhealthy foods which would increase their chances of getting obese. “Genes may co-determine who becomes obese, but our environment determines how many become obese.” That’s why obesity prevention efforts should be focused on changing the toxic environment around us, influencing us to make healthier choices. </p>
+[PLOS]("https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001114")
 <hr class="major" />
 
 <h2>Early Life</h2>
@@ -40,9 +40,9 @@ image: assets/images/pic11.jpg
 
 <p>_Fast Food_: CARDIA studies followed 3,000 young adults for 13 years. The results showed that people who have higher fast-food-intake levels at the start of the study weigh on average 13 lbs more than people who have lower levels of fast-food-intake.</p>
 
-<p>_Skipping breakfast_: While the relation betweens skipping breakfast and obesity are inconclusive, study has shown that it increases weight gain and obesity. Skipping breakfast would influence children to get snacks. Children get 27% of their daily calories from snacks, primarily on deserts and sugary drinks. [NIH]("https://pubmed.ncbi.nlm.nih.gov/20237134/")</p>
+<p>_Skipping breakfast_: While the relation betweens skipping breakfast and obesity are inconclusive, study has shown that it increases weight gain and obesity. Skipping breakfast would influence children to get snacks. Children get 27% of their daily calories from snacks, primarily on deserts and sugary drinks.</p> [NIH]("https://pubmed.ncbi.nlm.nih.gov/20237134/")
 
-<p>_Fruit Juices_: Even those 100% fruit juices, with no added sugar are high in sugar and calories. Havard school of Public health conducted a study which tracked the diet and lifestyle habits of 120,000 men and women for up to 20 years. The conclusion portrayed that people who increase their intake on fruit juices ended up weighing more. [NIH]("https://pubmed.ncbi.nlm.nih.gov/21696306/")</p>
+<p>_Fruit Juices_: Even those 100% fruit juices, with no added sugar are high in sugar and calories. Havard school of Public health conducted a study which tracked the diet and lifestyle habits of 120,000 men and women for up to 20 years. The conclusion portrayed that people who increase their intake on fruit juices ended up weighing more. </p>[NIH]("https://pubmed.ncbi.nlm.nih.gov/21696306/")
 
 <p>_Protein_: High protein diet may help with weight control by making them feel more satisfied on fewer calories, greater thermic effect to store burned energy and improve body composition. Protein seems to help people hand on to lean muscle which in turn can boost the amount of energy burned.</p>
 
@@ -61,16 +61,16 @@ image: assets/images/pic11.jpg
 
 <h2>Activity </h2>
 <p>Being active for at least 30 minutes per day for the majority of the week can lower the risk of obesity. But to stay at a healthy weight, or to lose weight, most people need at least an hour of physical activity per day. </p>
-<p>Staying active is not purely someone's choice. Build environments like transportation systems or buildings can influence how much we move around. [NIH]("https://pubmed.ncbi.nlm.nih.gov/19298418/") </p>
+<p>Staying active is not purely someone's choice. Build environments like transportation systems or buildings can influence how much we move around.</p> [NIH]("https://pubmed.ncbi.nlm.nih.gov/19298418/") 
 
 <hr class="major" /> 
 
 <h2>Toxic Environment </h2>
 <p>The environment around us can influence what we eat. For example, if it is difficult to access healthy food and easy to access candy from a convenience store, we would tend to gravitate towards the candy. Sometimes marketing for unhealthy foods and sugary drinks are unavoidable. Junk foods can be sold at school, work, or at the corner store. They are also displayed on television which create a desire for the food. Television also causes people to be less active throughout the day, which can also contribute to weight gain. </p>
 
-<p>Nutritious foods could also be more expensive than junk food. In the past 30 years, the price of fruit and vegetables rose much faster than the prices of all other consumer goods in the U.S. At the same time, the price for candy and carbonated drinks declines relative to the other products. This forced people to consume more sugars than whole foods, simply because they could not afford it. [NIH]("https://pubmed.ncbi.nlm.nih.gov/19357400/?dopt=Citation") </p>
+<p>Nutritious foods could also be more expensive than junk food. In the past 30 years, the price of fruit and vegetables rose much faster than the prices of all other consumer goods in the U.S. At the same time, the price for candy and carbonated drinks declines relative to the other products. This forced people to consume more sugars than whole foods, simply because they could not afford it.</p> [NIH]("https://pubmed.ncbi.nlm.nih.gov/19357400/?dopt=Citation") 
 
-<p>Since fast food chains and convenience stores are on every block, they have become an easy way to get food. However, stores like these often offer less variety at higher prices. The quality of the produce is also lower than supermarkets. [NIH]("https://pubmed.ncbi.nlm.nih.gov/17881277/?dopt=Citation") When smaller stores stock healthier foods, people living in that area also eat better. [NIH]("https://pubmed.ncbi.nlm.nih.gov/18207475/?dopt=Citation") </p>
+<p>Since fast food chains and convenience stores are on every block, they have become an easy way to get food. However, stores like these often offer less variety at higher prices. The quality of the produce is also lower than supermarkets. [NIH]("https://pubmed.ncbi.nlm.nih.gov/17881277/?dopt=Citation") When smaller stores stock healthier foods, people living in that area also eat better.</p> [NIH]("https://pubmed.ncbi.nlm.nih.gov/18207475/?dopt=Citation") 
 
 <p>As you can see, the food environment, what type of food is available and how much it costs and persuade people’s diets. The increased access to cheap and unhealthy food along with the urban lifestyle can lead to obesity and other health conditions. </p>
 

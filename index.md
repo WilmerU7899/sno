@@ -34,7 +34,7 @@ layout: default
 			<span class="icon fa-signal"></span>
 			<div class="content">
 				<h3>Exercise</h3>
-				<p>Nowadays, people are becoming more and more aware of exercising, especially students. They might stay active so they could feel like they are good in their new clothes, but they might not know the real benefits for staying fit. </p>
+				<p>Nowadays, people are becoming more and more aware of exercising, especially students. They might stay active so they could feel like they are good in their new clothes, but they might not know the real benefits for staying fit.</p>
 			</div>
 		</article>
 	</div>

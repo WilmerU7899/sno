@@ -25,7 +25,7 @@ image: <a class="image"><img src="https://toppng.com/uploads/preview/causes-of-o
 * Aim for a reasonable weight gain during pregnancy
 * Breastfeed
     * Preferably without liquids for 4-6 months
-    * Some breastfeeding for 12 months
+    * Some breastfeeding for 12 months 
 
 <hr class="major" />
 
